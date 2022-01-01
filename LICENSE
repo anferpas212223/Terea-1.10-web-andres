@@ -1,0 +1,14 @@
+Licencias que no son de software
+Las licencias de software de código abierto también se pueden utilizar para trabajos que no son de software y, a menudo, son la mejor opción, especialmente cuando los trabajos en cuestión se pueden editar y versionar como fuente (por ejemplo, diseños de hardware de código abierto ). Elija una licencia de código abierto aquí.
+
+Datos, medios, etc.
+CC0-1.0 , CC-BY-4.0 y CC-BY-SA-4.0 son licencias abiertas que se utilizan para material que no es software, desde conjuntos de datos hasta videos. Tenga en cuenta que CC-BY-4.0 y CC-BY-SA-4.0 no deben usarse para software .
+
+Documentación
+Cualquier licencia de software de código abierto o licencia abierta para medios (ver arriba ) también se aplica a la documentación del software. Si utiliza diferentes licencias para su software y su documentación, asegúrese de especificar que los ejemplos de código fuente en la documentación también tienen la licencia del software.
+
+Fuentes
+El SIL Open Font License 1.1 mantiene las fuentes abiertas, lo que les permite ser utilizadas libremente en otras obras.
+
+Proyectos mixtos
+Si su proyecto contiene una combinación de software y otro material, puede incluir varias licencias, siempre que sea explícito sobre qué licencia se aplica a cada parte del proyecto. Consulte el aviso de licencia de este sitio como ejemplo.
