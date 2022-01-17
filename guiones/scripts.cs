@@ -4,10 +4,10 @@ let myImage= document.querySelector('img');
 
 myImage.onclick = function(){
   let mySrc = myImage.getAttribute('src');
-  if(mySrc === 'https://cdn.pixabay.com/photo/2018/05/08/21/29/spotify-3384019_1280.png'){
+  if(mySrc === 'imagenes/spotify-3384019_1280.png'){
     myImage.setAttribute ('src','https://cdn.iconscout.com/icon/free/png-256/spotify-1682937-1440796.png');
   } else{
-    myImage.setAttribute ('src','https://cdn.pixabay.com/photo/2018/05/08/21/29/spotify-3384019_1280.png');
+    myImage.setAttribute ('src','imagenes/spotify-3384019_1280.png');
   }
 }
 
