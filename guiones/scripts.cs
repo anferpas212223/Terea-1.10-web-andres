@@ -4,10 +4,10 @@ let myImage= document.querySelector('img');
 
 myImage.onclick = function(){
   let mySrc = myImage.getAttribute('src');
-  if(mySrc === 'images/firefox-icon.png'){
+  if(mySrc === 'imagenes/spotify-3384019_1280.png'){
     myImage.setAttribute ('src','https://cdn.iconscout.com/icon/free/png-256/spotify-1682937-1440796.png');
   } else{
-    myImage.setAttribute ('src','imageshttps://cdn.pixabay.com/photo/2018/05/08/21/29/spotify-3384019_960_720.png');
+    myImage.setAttribute ('src','imagenes/spotify-3384019_1280.png');
   }
 }
 
